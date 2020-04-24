@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bank-of-trust/static/css/main.f0585da4.chunk.css",
+    "main.js": "/bank-of-trust/static/js/main.4e7f8dff.chunk.js",
+    "main.js.map": "/bank-of-trust/static/js/main.4e7f8dff.chunk.js.map",
+    "runtime-main.js": "/bank-of-trust/static/js/runtime-main.62ff6f92.js",
+    "runtime-main.js.map": "/bank-of-trust/static/js/runtime-main.62ff6f92.js.map",
+    "static/js/2.43218c31.chunk.js": "/bank-of-trust/static/js/2.43218c31.chunk.js",
+    "static/js/2.43218c31.chunk.js.map": "/bank-of-trust/static/js/2.43218c31.chunk.js.map",
+    "index.html": "/bank-of-trust/index.html",
+    "precache-manifest.62085a049497fbbafe0ea55feac8ec3d.js": "/bank-of-trust/precache-manifest.62085a049497fbbafe0ea55feac8ec3d.js",
+    "service-worker.js": "/bank-of-trust/service-worker.js",
+    "static/css/main.f0585da4.chunk.css.map": "/bank-of-trust/static/css/main.f0585da4.chunk.css.map",
+    "static/js/2.43218c31.chunk.js.LICENSE.txt": "/bank-of-trust/static/js/2.43218c31.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/bank-of-trust/static/media/crown.ed28accb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62ff6f92.js",
+    "static/js/2.43218c31.chunk.js",
+    "static/css/main.f0585da4.chunk.css",
+    "static/js/main.4e7f8dff.chunk.js"
+  ]
+}
